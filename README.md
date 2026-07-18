@@ -6,7 +6,7 @@ Right now I am embedded full-time with Cabot Insights, building GTM and automati
 
 ### Building in the open
 
-- **[amaphupho](https://amaphupho.co.za)** - AI dream interpretation grounded in Zulu, Xhosa, and Sotho ancestral wisdom. Web plus native iOS and Android apps, in active beta.
+- **[amaphupho](https://amaphupho.co.za)** - AI dream interpretation grounded in Zulu, Xhosa, and Sotho ancestral wisdom. Live on the web in active beta; native iOS and Android apps coming soon.
 - **[job-hunt-autopilot](https://github.com/EnzoPython3/job-hunt-autopilot)** - an assisted job-application loop on Google Apps Script, Sheets, and Gemini. MIT licensed, runs in about 30 minutes.
 
 ### Elsewhere
