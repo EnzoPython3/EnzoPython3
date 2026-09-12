@@ -15,4 +15,19 @@ Right now I am embedded full-time with Cabot Insights, building GTM and automati
 - Writing: [enzosnyman.com/writing](https://enzosnyman.com/writing)
 - LinkedIn: [enzo-snyman](https://www.linkedin.com/in/enzo-snyman/)
 
-Stack I reach for: n8n, Clay, Claude Code, Instantly, Supabase.
+Stack I reach for:
+
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![Clay](https://img.shields.io/badge/Clay-000000?style=flat-square&logo=clay&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![Instantly](https://img.shields.io/badge/Instantly-6C4CFF?style=flat-square&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+
+### GitHub stats
+
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=EnzoPython3&show_icons=true&theme=default&hide_border=true&count_private=true" alt="Enzo's GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoPython3&layout=compact&hide_border=true&theme=default" alt="Top languages" />
+</p>
+
+![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=EnzoPython3&hide_border=true&theme=default)
