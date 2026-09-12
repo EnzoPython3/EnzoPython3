@@ -26,8 +26,8 @@ Stack I reach for:
 ### GitHub stats
 
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=EnzoPython3&show_icons=true&theme=default&hide_border=true&count_private=true" alt="Enzo's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoPython3&layout=compact&hide_border=true&theme=default" alt="Top languages" />
+  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=EnzoPython3&show_icons=true&theme=default&hide_border=true&count_private=true" alt="Enzo's GitHub stats" />
+  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=EnzoPython3&layout=compact&hide_border=true&theme=default" alt="Top languages" />
 </p>
 
 ![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=EnzoPython3&hide_border=true&theme=default)
